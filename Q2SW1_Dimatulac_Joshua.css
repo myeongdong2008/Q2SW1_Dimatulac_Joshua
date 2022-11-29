@@ -1,0 +1,46 @@
+
+body{
+	border-style: solid;
+	border-color: #B3ECEC;
+	border-width: 3px;
+}
+
+.Div1 {
+    background-color: #90EE90;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+.Div2 {
+    background-color: #B3ECEC;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+.Div3 {
+    background-color: #C4A484;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+h1{
+	font-family: Bebas Neue;
+	color: #000000;
+	text-shadow: whitesmoke 3px 3px;
+    letter-spacing: 12px;
+}
+ul{
+   font-family: Arial;
+   color: black;
+}
+
+img{
+    height:300px ;
+    padding: 15px;
+    border-radius: 50px;
+    opacity: .75;
+}
+
+img:hover{
+    opacity: 1;
+}
