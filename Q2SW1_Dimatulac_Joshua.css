@@ -33,14 +33,3 @@ ul{
    font-family: Arial;
    color: black;
 }
-
-img{
-    height:300px ;
-    padding: 15px;
-    border-radius: 50px;
-    opacity: .75;
-}
-
-img:hover{
-    opacity: 1;
-}
